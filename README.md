@@ -11,7 +11,7 @@
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-xfce](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-xfce) |
 | `=` |
-| [ubuntu-iso-builder-pacstall-xfce](https://github.com/samwhelp/ubuntu-iso-builder-pacstall-xfce) |
+| [ubuntu-iso-builder-include-pacstall-xfce](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-xfce) |
 
 
 
